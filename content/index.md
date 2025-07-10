@@ -1,7 +1,7 @@
 ---
 title: 💀Портфолио Kanzu
 ---
-### [English version](https://kanzu32.github.io/portfolio-en/)
+### [English version](https://kanzu32.github.io/portfolio-en)
 
 # 👋Здравствуйте! Меня зовут **Максим** (Kanzu)<br />Я разработчик 💻приложений, 🌐веб-сайтов и 🕹️игр.
 
