@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "kanzu32.github.io/portfolio",
-    ignorePatterns: ["private", "templates", ".obsidian", "en"],
+    baseUrl: "kanzu32.github.io/portfolio-ru",
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
