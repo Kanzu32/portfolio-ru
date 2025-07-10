@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "kanzu32.github.io/portfolio",
     ignorePatterns: ["private", "templates", ".obsidian", "en"],
     defaultDateType: "modified",
     theme: {
