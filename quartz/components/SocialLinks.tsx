@@ -6,7 +6,7 @@ export default (() => {
       <div class="social-links">
         <ul>
             <li>
-                <a href="https://github.com/portfolio-ru">🔠 English version</a>
+                <a href="https://kanzu32.github.io/portfolio-en">🔠 English version</a>
             </li>
 
             <br/>
